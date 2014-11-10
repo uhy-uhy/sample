@@ -1,0 +1,8 @@
+c:\users\pp\documents\visual studio 2013\Projects\self-repair2\self-repair2\bin\Debug\self-repair2.exe.config
+c:\users\pp\documents\visual studio 2013\Projects\self-repair2\self-repair2\obj\Debug\self_repair2.Properties.Resources.resources
+c:\users\pp\documents\visual studio 2013\Projects\self-repair2\self-repair2\obj\Debug\self-repair2.csproj.GenerateResource.Cache
+c:\users\pp\documents\visual studio 2013\Projects\self-repair2\self-repair2\bin\Debug\self-repair2.exe
+c:\users\pp\documents\visual studio 2013\Projects\self-repair2\self-repair2\bin\Debug\self-repair2.pdb
+c:\users\pp\documents\visual studio 2013\Projects\self-repair2\self-repair2\obj\Debug\self-repair2.exe
+c:\users\pp\documents\visual studio 2013\Projects\self-repair2\self-repair2\obj\Debug\self-repair2.pdb
+c:\users\pp\documents\visual studio 2013\Projects\self-repair2\self-repair2\obj\Debug\self-repair2.csprojResolveAssemblyReference.cache
